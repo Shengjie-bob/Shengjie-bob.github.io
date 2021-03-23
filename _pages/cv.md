@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mechatronics Engineering, **Beijing Institute of Technology**, 2019   <p align="right">**Rank Top 1**</p>
-* M.S. in Control Science and Engineering, **Tsinghua University**, 2022(expected)  <p align="right">**GPA 3.86/4.0**</p>
+* B.S. in Mechatronics Engineering, **Beijing Institute of Technology**, 2019   **Rank Top 1**
+* M.S. in Control Science and Engineering, **Tsinghua University**, 2022(expected)  **GPA 3.86/4.0**
 
 
 Research experience
@@ -40,12 +40,12 @@ Publications
   
 Awards and Honors
 ======
-• **The highest honor scholarship for Undergraduates**(less than 10 students per year) <p align="right">2019</p>
-• Outstanding Graduates <p align="right">2019</p>
+• **The highest honor scholarship for Undergraduates**(less than 10 students per year), 2019
+• Outstanding Graduates, 2019
 • The 1st National Innovation Design Competition of Intelligent Mechatronic Systems
-  **The First Prize** (Top 5 in China) <p align="right">2019</p>
-• **National Scholarship**  <p align="right">2017</p>
-• The First Prize Scholarship <p align="right">2016</p>
+  **The First Prize** (Top 5 in China),2019
+• **National Scholarship**, 2017
+• The First Prize Scholarship, 2016
 
 Teaching Assitant Experience
 ======
