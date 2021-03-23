@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mechatronics Engineering, **Beijing Institute of Technology**, 2019    **Rank Top 1**
-* M.S. in Control Science and Engineering, **Tsinghua University**, 2022(expected)  **GPA 3.86/4.0**
+* B.S. in Mechatronics Engineering, **Beijing Institute of Technology**, 2019,    **Rank Top 1**
+* M.S. in Control Science and Engineering, **Tsinghua University**, 2022(expected),  **GPA 3.86/4.0**
 
 
 Research experience
@@ -24,7 +24,7 @@ Research experience
   * Supervisor: **Prof. Tao Zhang (IET Fellow, Head of Department)**
 
 * *Sept. 2016 - Aug. 2019: Research Assistant*
-  * Beijing Advanced Innovation Center for Intelligent Robots and Systems (BAICIRS), Beijing Institute of Technology
+  * Beijing Advanced Innovation Center for Intelligent Robots and Systems (**BAICIRS**), Beijing Institute of Technology
   * Research: **Development of a Miniature Quadruped Robotic Rat**
   * Supervisor: **Prof. Qing Shi (IEEE Senior Member) Prof. Toshio Fukuda (IEEE President(2020))**
   
