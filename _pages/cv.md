@@ -17,13 +17,13 @@ Education
 
 Research experience
 ======
-* *Sept. 2019 - Present: Research Assistant
+* *Sept. 2019 - Present: Research Assistant*
   * Institute of Navigation and Control, Department of Automation, Tsinghua University
   * Research 1: **Learning to Control for Capturing the Space Target**
   * Research 2: **End-To-End Trajectory Planning for a Free-floating Space Robot**
   * Supervisor: **Prof. Tao Zhang (IET Fellow, Head of Department)**
 
-* *Sept. 2016 - Aug. 2019: Research Assistant
+* *Sept. 2016 - Aug. 2019: Research Assistant*
   * Beijing Advanced Innovation Center for Intelligent Robots and Systems (BAICIRS), Beijing Institute of Technology
   * Research: **Development of a Miniature Quadruped Robotic Rat**
   * Supervisor: **Prof. Qing Shi (IEEE Senior Member) Prof. Toshio Fukuda (IEEE President(2020))**
