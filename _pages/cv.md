@@ -50,10 +50,6 @@ Awards and Honors
 Teaching Assitant Experience
 ======
 Signal and System (undergraduate course), supervised by Prof. Qing Zhuo, Spring, 2021 
-  
-Research Interests
-======
-During my PhD stage, I plan to continue researching on intelligent robotics and reinforcement learning. To be specific, my research interests contain robotic perception with autonomous trajectory planning and control, reinforcement learning and intelligent bionic robot. I plan to develop several reinforcement learning algorithms with strong generalization ability to facilitate the application in real robots. For example, we can make robots efficiently execute multiple modes to safely complete tasks with reinforcement learning.
 
 Skills
 ======
