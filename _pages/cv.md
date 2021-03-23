@@ -40,12 +40,12 @@ Publications
   
 Awards and Honors
 ======
-• **The highest honor scholarship for Undergraduates**(less than 10 students per year), 2019
-• Outstanding Graduates, 2019
-• The 1st National Innovation Design Competition of Intelligent Mechatronic Systems
+* **The highest honor scholarship for Undergraduates**(less than 10 students per year), 2019
+* Outstanding Graduates, 2019
+* The 1st National Innovation Design Competition of Intelligent Mechatronic Systems
   **The First Prize** (Top 5 in China),2019
-• **National Scholarship**, 2017
-• The First Prize Scholarship, 2016
+* **National Scholarship**, 2017
+* The First Prize Scholarship, 2016
 
 Teaching Assitant Experience
 ======
