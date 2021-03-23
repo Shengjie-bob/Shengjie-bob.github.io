@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mechatronics Engineering, **Beijing Institute of Technology**, 2019,    **Rank Top 1**
-* M.S. in Control Science and Engineering, **Tsinghua University**, 2022(expected),  **GPA 3.86/4.0**
+* B.S. in Mechatronics Engineering, **Beijing Institute of Technology**, 2019   <p align="right">**Rank Top 1**</p>
+* M.S. in Control Science and Engineering, **Tsinghua University**, 2022(expected)  <p align="right">**GPA 3.86/4.0**</p>
 
 
 Research experience
@@ -38,6 +38,15 @@ Publications
 * Q. Shi, **S. Wang** et al., “Leg structure of a miniature robotic rat based on micro actuator”, CN110104088A, Chinese Patents of Invention, 2019, *Patent authorized*.
 * M. Ma, Q. Shi, C. Li, Z. Gao, **S. Wang** et al., “Design of a Compact Rat-inspired Waist Mechanism for a Biomimetic Robot”, 2018 IEEE International Conference on Cyborg and Bionic Systems (**CBS**), Shenzhen, 2018, pp. 455-459.
   
+Awards and Honors
+======
+• **The highest honor scholarship for Undergraduates**(less than 10 students per year) <p align="right">2019</p>
+• Outstanding Graduates <p align="right">2019</p>
+• The 1st National Innovation Design Competition of Intelligent Mechatronic Systems
+  **The First Prize** (Top 5 in China) <p align="right">2019</p>
+• **National Scholarship**  <p align="right">2017</p>
+• The First Prize Scholarship <p align="right">2016</p>
+
 Teaching Assitant Experience
 ======
 Signal and System (undergraduate course), supervised by Prof. Qing Zhuo, Spring, 2021 
