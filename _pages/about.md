@@ -13,6 +13,7 @@ Before stduying at Tsinghua, I received my B.E. in Mechatronics Engineering from
 Beseide, I worked as a research assitant in Beijing Advanced Innovation Center for Intelligent Robots and Systems (**BAICIRS**) supervised by **Prof. Qing Shi (IEEE Senior Member) and Prof. Toshio Fukuda (IEEE President(2020))**.
 
 Location: Main Building 428, Institute of Navigation and Control, Department of Automation, Tsinghua University, Beijing, China
+
 Email: wangsj19@mails.tsinghua.edu.cn
 
 A data-driven personal website
