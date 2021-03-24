@@ -19,7 +19,7 @@ main:
 #   - title: "Blog Posts"
 #     url: /year-archive/
   - title: "Awards"
-    url: /Awards/
+    url: /awards/
     
   - title: "Contact"
     url: /markdown/
