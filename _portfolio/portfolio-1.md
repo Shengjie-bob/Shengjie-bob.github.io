@@ -5,8 +5,10 @@ collection: portfolio
 
 ---
 {% include base_path %}
+
 <iframe src='/images/spacerobot_v3_cut.mp4' scrolling='no' border='0' frameborder='no' framespacing='0' allowfullscreen='true'> 
 </iframe>
+
 Main Work
 ======
 * We constructed a multi-layer perceptron network to parameterize our planning strategy, which was optimized by PPO algorithm to realize trajectory planning for multi-target;
