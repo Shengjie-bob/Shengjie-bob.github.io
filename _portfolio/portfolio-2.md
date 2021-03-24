@@ -1,6 +1,6 @@
 ---
 title: "Development of a Small-Sized Quadruped Robotic Rat Capable of Multi-Modal Motions"
-excerpt: "Video submitted at IEEE TRO, 2021<br/><iframe src='/images/spacerobot_v3_cut.mp4'>"
+excerpt: "Video submitted at IEEE TRO, 2021<br/><iframe height=498 width=510 src='/images/spacerobot_v3_cut.mp4'>"
 collection: portfolio
 
 ---
