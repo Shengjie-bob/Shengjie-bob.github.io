@@ -15,7 +15,7 @@ Education
 * M.S. in Control Science and Engineering, **Tsinghua University**, 2022(expected)  **GPA 3.86/4.0**
 
 
-Research experience
+Research Experience
 ======
 * *Sept. 2019 - Present: Research Assistant*
   * Institute of Navigation and Control, Department of Automation, Tsinghua University
@@ -47,7 +47,7 @@ Awards and Honors
 * **National Scholarship**, 2017
 * The First Prize Scholarship, 2016
 
-Teaching Assitant Experience
+Teaching Assistant Experience
 ======
 Signal and System (undergraduate course), supervised by Prof. Qing Zhuo, Spring, 2021 
 
