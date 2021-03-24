@@ -7,7 +7,7 @@ collection: portfolio
 
 {% include base_path %}
 
-Main Contributions
+Main Work
 ======
 * We constructed a multi-layer perceptron network to parameterize our planning strategy, which was optimized by PPO algorithm to realize trajectory planning for multi-target;
 * We used some meth- ods to improve the PPO algorithm on precision and stability of reaching multiple targets. In particular, we introduced an Action Ensembles Based on Poisson Distribution (AEP) method, which makes the policy approximate the optimal policy efficiently;
