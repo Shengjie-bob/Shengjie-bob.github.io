@@ -4,4 +4,9 @@ excerpt: "Video submitted at IEEE IROS, 2021<br/><img src='/images/spacerobot_v3
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+Main Contributions
+======
+* We constructed a multi-layer perceptron network to parameterize our planning strategy, which was optimized by PPO algorithm to realize trajectory planning for multi-target;
+* We used some meth- ods to improve the PPO algorithm on precision and stability of reaching multiple targets. In particular, we introduced an Action Ensembles Based on Poisson Distribution (AEP) method, which makes the policy approximate the optimal policy efficiently;
+* We conducted a trajectory tracking task in which the end-effctor follows a specific trajectory. Furthermore, we also carried out extensive evaluations under the conditions of external disturbances at joints, different masses of the base satellite, and single joint failure, without any further training. The results suggest that our strategy has the significant adaptability and anti-disturbance capacity.
