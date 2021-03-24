@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postgraduate student supervised by **Prof. Tao Zhang** in the Institute of Navigation and Control (**INC**) at Tsinghua University. 
+I am a postgraduate student supervised by **Prof. Tao Zhang** in the Institute of Navigation and Control (**INC**) at **Tsinghua University**. 
 
-Before stduying at Tsinghua, I received my B.E. in Mechatronics Engineering from University of Beijing Institute of Technology in 2019.
+Before stduying at Tsinghua, I received my B.E. in Mechatronics Engineering from University of **Beijing Institute of Technology** in 2019.
 Beseide, I worked as a research assitant in Beijing Advanced Innovation Center for Intelligent Robots and Systems (**BAICIRS**) supervised by **Prof. Qing Shi (IEEE Senior Member) and Prof. Toshio Fukuda (IEEE President(2020))**.
 
 Location: Main Building 428, Institute of Navigation and Control, Department of Automation, Tsinghua University, Beijing, China
