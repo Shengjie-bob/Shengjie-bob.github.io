@@ -1,12 +1,12 @@
 ---
 title: "A Multi-Target Trajectory Planning Strategy of a 6-DoF Free-Floating Space Robot based on Reinforcement Learning"
-excerpt: "Video submitted at IEEE IROS, 2021<br/><iframe height=360 width=640 src='/images/spacerobot_v3_cut.mp4' allowfullscreen='true'> </iframe>"
+excerpt: "Video submitted at IEEE IROS, 2021<br/><iframe height=720 width=1280 src='/images/spacerobot_v3_cut.mp4' allowfullscreen='true'> </iframe>"
 collection: portfolio
 
 ---
 {% include base_path %}
 
-<iframe height=360 width=640 src='/images/spacerobot_v3_cut.mp4' allowfullscreen='true'> </iframe>
+<iframe height=720 width=1280 src='/images/spacerobot_v3_cut.mp4' allowfullscreen='true'> </iframe>
 
 Main Work
 ======
