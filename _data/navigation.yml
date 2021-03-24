@@ -14,12 +14,12 @@ main:
 #     url: /teaching/    
     
   - title: "Videos"
-    url: /videos/
+    url: /portfolio/
         
 #   - title: "Blog Posts"
 #     url: /year-archive/
   - title: "Awards"
     url: /Awards/
     
-  - title: "Guide"
+  - title: "Contact"
     url: /markdown/
