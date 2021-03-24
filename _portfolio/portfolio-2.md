@@ -9,7 +9,7 @@ collection: portfolio
 
 we propose a small-sized quadruped robotic rat (SQuRo) capable of multi-modal motion.
 
-Main Contributions
+Main Work
 ======
 * the mechanical design of a quadruped robot captures a decent representation of an actual rat. Unlike a conventional quadruped robot, a rat-like robot should also be similar to actual rats in terms of size, weight, and appearance. The optimal design of a flexible body allows a significant reduction of the turning radius, which had been previously difficult to achieve. The mechanical structure of SQuRo makes full use of the connecting rod mechanism, which can more accurately transfer movement more accurately and improve the maneuverability compared with the wire-driven mechanism.
 * Multi-modal motion planning and control. On the basis of the substantially bio-inspired robot structure, we analyzed the dynamic stability and optimized the parameters to generate motion trajectories for the planning of multi-modal motions. The appropriate control parameters were optimized with multi-objective bionic constraints subject to stability and power limitations. Simultaneously, we realized a stable and fast motion transition, which improves the motion agility and environmental adaptability. 
