@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/spacerobot_v3_cut.mp4'>"
+title: "A Multi-Target Trajectory Planning Strategy of a 6-DoF Free-Floating Space Robot based on Reinforcement Learning"
+excerpt: "Video submitted at IEEE IROS, 2021<br/><img src='/images/spacerobot_v3_cut.mp4'>"
 collection: portfolio
 ---
 
