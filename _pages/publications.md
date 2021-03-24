@@ -3,7 +3,10 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+
 ---
+
+{% include base_path %}
 
 * **S. Wang** et al., "Design and Control of a Miniature Quadruped Rat-inspired Robot", 2019 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (**AIM**), Hong Kong, China, 2019, pp. 346- 351. (**the Best Student Paper Award(Top 0.5%)**)
 * Q. Shi, J. Gao, **S. Wang** et al., " Development of a Small-Sized Quadruped Robotic Rat Capable of Multi- Modal Motions", IEEE Transactions on Robotics (**T-RO**), 2021, *Under review*.
