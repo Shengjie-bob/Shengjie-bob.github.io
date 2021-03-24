@@ -6,7 +6,7 @@ collection: portfolio
 ---
 {% include base_path %}
 
-<iframe height=720 width=1280 src='/images/spacerobot_v3_cut.mp4' s allowfullscreen='true'> </iframe>
+<iframe height=720 width=1280 src='/images/spacerobot_v3_cut.mp4' allowfullscreen='true'> </iframe>
 
 Main Work
 ======
