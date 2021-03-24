@@ -1,6 +1,6 @@
 ---
 title: "A Multi-Target Trajectory Planning Strategy of a 6-DoF Free-Floating Space Robot based on Reinforcement Learning"
-excerpt: "Video submitted at IEEE IROS, 2021<br/><iframe src="//player.bilibili.com/player.html?aid=544792688&bvid=BV1Wi4y1P7rU&cid=314154816&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>"
+excerpt: "Video submitted at IEEE IROS, 2021<br/><iframe src='/images/spacerobot_v3_cut.mp4' scrolling="no" border="0" frameborder="no" framespacing="0" \ allowfullscreen="true"> </iframe>"
 collection: portfolio
 
 ---
