@@ -13,7 +13,7 @@ redirect_from:
 * Department of Automation, Institute of Navigation and Control, Postgraduate Student
 * Address：中央主楼428 Main building 428
 
-Phone: (86) 18811373028
+Phone: (+86) 18811373028
 
 E-mail: wangsj19@mails.tsinghua.edu.cn
 
