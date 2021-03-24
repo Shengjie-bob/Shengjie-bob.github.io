@@ -6,6 +6,9 @@ author_profile: true
 
 ---
 
+{% include base_path %}
+
+
 Awards and Honors
 ======
 * **The highest honor scholarship for Undergraduates**(less than 10 students per year), 2019
