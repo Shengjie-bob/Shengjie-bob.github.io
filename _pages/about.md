@@ -19,7 +19,7 @@ Email: wangsj19@mails.tsinghua.edu.cn
 Research Interests
 ======
 My research interests include intelligent robotics and reinforcement learning. To be specific, my research focuses on trajectory planning of free-floating space robots using reinforcement learning and developing of small-scale quadruped robots capable of multi-modal motions. 
-To develop a general-purpose learning framework, I am interested in studying topics including, but not limited to, **reinforcement learning, Optimization, Biomimetic Robot Design, Control Theory, SLAM, Deep Learning, Dynamics Modeling and Simulation, Image Processing**.
+To develop a general-purpose learning framework, I am interested in studying topics including, but not limited to, **Reinforcement learning, Optimization, Biomimetic Robot Design, Control Theory, SLAM, Deep Learning, Dynamics Modeling and Simulation, Image Processing**.
 
 When I was at BIT, I worked with Prof. Qing Shi and Prof. Toshio Fukuda to study the intersection of robotics and biology. For example, to realize the detection and operation in narrow spaces, I developed a miniature rat-inspired robot that captures a decent representation of an actual rat, and designed a hierarchical multi-modal locomotion controller based on optimization with bionic constraints. Our robot can execute multiple modes including crouch-standing action, walking forward, turning around, crawling and recovery from a fall. **This work won the best student paper award at IEEE AIM in 2019.**
 
