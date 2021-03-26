@@ -8,8 +8,12 @@ collection: portfolio
 
 <iframe height=720 width=1280 src='/images/spacerobot_v3_cut.mp4' allowfullscreen='true'> </iframe>
 
+Abstract
+======
+With the development of space technology, space robots have played an important role in detecting and recycling space junk. However, due to the modeling error and the non-holonomic constraint, it is challenging to perform tasks with model-based methods. Model-free reinforcement learning methods are promising in tackling space capture missions. Nevertheless, current research results mostly focus on the single- target environment. In this paper, we proposed a multi-target trajectory planning strategy of a 6-DoF free-floating space robot optimized by the Proximal Policy Optimization (PPO) algorithm. Besides, we adopted some augmentation techniques to improve the PPO algorithm on precision and stability of reaching multiple targets. In particular, we introduced an Action Ensembles Based on Poisson Distribution (AEP) method, which facilitates the policy to efficiently approximate the optimal policy. Our method can be easily extended to realize the end-effector trajectory tracking. We evaluated our approach on four tasks: circle trajectory tracking, external disturbances at joints, different masses of the base, and even single joint failure, without any further fine-tuning. The results suggeest that the planning strategy has comparably high adaptability and anti- inference capacity.
+
 Main Work
 ======
 * We constructed a multi-layer perceptron network to parameterize our planning strategy, which was optimized by PPO algorithm to realize trajectory planning for multi-target;
-* We used some meth- ods to improve the PPO algorithm on precision and stability of reaching multiple targets. In particular, we introduced an Action Ensembles Based on Poisson Distribution (AEP) method, which makes the policy approximate the optimal policy efficiently;
+* We used some methods to improve the PPO algorithm on precision and stability of reaching multiple targets. In particular, we introduced an Action Ensembles Based on Poisson Distribution (AEP) method, which makes the policy approximate the optimal policy efficiently;
 * We conducted a trajectory tracking task in which the end-effctor follows a specific trajectory. Furthermore, we also carried out extensive evaluations under the conditions of external disturbances at joints, different masses of the base satellite, and single joint failure, without any further training. The results suggest that our strategy has the significant adaptability and anti-disturbance capacity.
