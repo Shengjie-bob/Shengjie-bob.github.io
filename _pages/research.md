@@ -25,7 +25,7 @@ End-To-End Trajectory Planning for a Free-floating Space Robot
 Development of a Miniature Quadruped Robotic Rat Capable of Multi-Modal Motions
 ======
 * Time : Mar. 2018 - Present
-* Developed a miniature rat-inspired robot integrated with 12 actuated DOFs and a size of 202 × 55×75mm^3. The morphology and weight of the robotic rat is the same as a mature rat. The mechanical structure of the robotic rat makes full use of the connecting rod mechanism to transfer the movement. 
+* Developed a miniature rat-inspired robot integrated with 12 actuated DOFs and a size of $202\times55\times75 mm^3$ . The morphology and weight of the robotic rat is the same as a mature rat. The mechanical structure of the robotic rat makes full use of the connecting rod mechanism to transfer the movement. 
 * Designed an optimal Central Pattern Generator (CPG) network through Particle Swarm Optimization (PSO) algorithm which guaranteed adjustable frequency and amplitude to determine gait pattern and stride frequency. This method solves how to choose the optimal parameters of the CPG network based on Kimura model.
 * Designed a hierarchical multi-modal locomotion controller for a rat-inspired quadruped robot based on optimization with bionic constraints. Consisting of three layers, our method can execute multiple modes including crouch-standing action, walking forward, turning around, crawling and recovery from a fall.
 * Compared with the quadruped robots in similar size, the motion performance of our robot has some certain advantages. The maximum speed of the robotic rat reaches 15 cm/s, and the radius of turning is less than 6 cm. Except for them, it can carry loads that are 60% of its weight. 
