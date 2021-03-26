@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 
-* 2019, **The highest honor scholarship for Undergraduates**(less than 10 students per year), Beijing Institute of Technology, 北京理工大学徐特立特等奖学金 (校长奖)
+* 2019, **The highest honor scholarship for Undergraduates**(less than 10 students per year), Beijing Institute of Technology, **北京理工大学徐特立特等奖学金(校长奖)**
 * 2019, Outstanding Graduation Project, Beijing, 北京市优秀本科毕业设计
 * 2019, Outstanding Graduates, Beijing Institute of Technology, 北京理工大学优秀本科毕业生
 * 2019, The 1st National Innovation Design Competition of Intelligent Mechatronic Systems, 首届全国大学生智能机电系统创新设计大赛
