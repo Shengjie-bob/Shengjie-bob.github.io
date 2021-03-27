@@ -1,13 +1,3 @@
----
-layout: archive
-title: "Awards"
-permalink: /awards/
-author_profile: true
-
----
-
-{% include base_path %}
-
 
 * 2019, **The highest honor scholarship for Undergraduates**(less than 10 students per year), Beijing Institute of Technology, **北京理工大学徐特立特等奖学金(校长奖)**
 * 2019, Outstanding Graduation Project, Beijing, 北京市优秀本科毕业设计
