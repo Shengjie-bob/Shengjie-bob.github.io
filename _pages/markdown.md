@@ -7,11 +7,10 @@ redirect_from:
   - /markdown.html
 ---
 	
-* 王圣杰  Shengjie Wang
-* 清华大学 Tsinghua University
-* 自动化系 导航与控制研究所 硕士研究生
-* Department of Automation, Institute of Navigation and Control, Postgraduate Student
-* Address：中央主楼428 Main building 428
+* Shengjie(Jason) Wang 
+* Postgraduate Student
+* Department of Automation, Institute of Navigation and Control, Tsinghua University
+* Address: Main building 428, Tsinghua University, Beijing, China
 
 Phone: (+86) 18811373028
 
