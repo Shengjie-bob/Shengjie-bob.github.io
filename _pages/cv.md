@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mechatronics Engineering, **Beijing Institute of Technology**, 2019   **Rank Top 1**
 * M.S. in Control Science and Engineering, **Tsinghua University**, 2022(expected)  **GPA 3.86/4.0**
-
+  * **Major courses**: Convex Optimization, Pattern Recognition, Probabilistic Graphical Models
+* B.S. in Mechatronics Engineering, **Beijing Institute of Technology**, 2019   **Rank Top 1**
+  * **Major courses**: Robotics, Automatic Control, Theoretical Mechanics
 
 Research Experience
 ======
