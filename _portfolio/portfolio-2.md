@@ -9,9 +9,9 @@ collection: portfolio
 
 <iframe height=720 width=1280 src='/images/robotic_rat.mp4' allowfullscreen='true'> </iframe>
 
-we propose a small-sized quadruped robotic rat (SQuRo) capable of multi-modal motion.
-
 **Tips**：If you see a small figure in the center of the above screen, click it and then you will see the video.
+
+we propose a small-sized quadruped robotic rat (SQuRo) capable of multi-modal motion.
 
 Abstract
 ======
