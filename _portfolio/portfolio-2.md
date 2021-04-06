@@ -7,7 +7,7 @@ collection: portfolio
 
 {% include base_path %}
 
-<iframe height=720 width=1280 src='/images/spacerobot_v3_cut.mp4' allowfullscreen='true'> </iframe>
+<iframe height=720 width=1280 src='/images/robotic_rat.mp4' allowfullscreen='true'> </iframe>
 
 we propose a small-sized quadruped robotic rat (SQuRo) capable of multi-modal motion.
 
