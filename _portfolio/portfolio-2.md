@@ -7,7 +7,7 @@ collection: portfolio
 
 {% include base_path %}
 
-<iframe height=720 width=1280 src='/images/spacerobot_cut.mp4' allowfullscreen='true'> </iframe>
+<iframe height=720 width=1280 src='/images/spacerobot_v3_cut.mp4' allowfullscreen='true'> </iframe>
 
 **Tips**：If you see a small figure in the center of the above screen, click it and then you will see the video.
 
