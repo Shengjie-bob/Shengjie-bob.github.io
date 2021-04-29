@@ -1,6 +1,6 @@
 ---
 title: "Collision-Free Trajectory Planning for a 6-DoF Free Floating Space Robot via Hierachical Decoupling Optimization"
-excerpt: "**Recent research in 29, Apri, 2021.**"
+excerpt: "**Recent research in 29th, Apri, 2021.**"
 collection: portfolio
 
 ---
