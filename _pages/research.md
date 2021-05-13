@@ -11,8 +11,8 @@ author_profile: true
 Learning to Control for Capturing the Space Target 
 ======
 <figure class="half">
-    <img src="capture.gif" width="300">
-    <img src="capture2.gif" width="300">
+    <img src="/images/capture.gif" width="300">
+    <img src="/images/capture2.gif" width="300">
 </figure>	
 * Time : Sept. 2021 - Present
 * Developed a hierachical decoupling optimization algorithm to realize 6D-pose multi-target trajectory planning for the free-floating space robot.
@@ -24,10 +24,10 @@ Learning to Control for Capturing the Space Target
 Development of a Miniature Quadruped Robotic Rat Capable of Multi-Modal Motions
 ======
 <figure class="half">
-    <img src="rat1.gif" width="300">
-    <img src="rat2.gif" width="300">
-  	<img src="rat3.gif" width="300">
-  	<img src="rat5.gif" width="300">
+    <img src="/images/rat1.gif" width="300">
+    <img src="/images/rat2.gif" width="300">
+  	<img src="/images/rat3.gif" width="300">
+  	<img src="/images/rat5.gif" width="300">
 </figure>
 * Time : Mar. 2018 - Present
 * Developed a miniature rat-inspired robot integrated with $12$ actuated DOFs and a size of $202\times55\times75 mm^3$ . The morphology and weight of the robotic rat is the same as a mature rat. The mechanical structure of the robotic rat makes full use of the connecting rod mechanism to transfer the movement. 
@@ -39,8 +39,8 @@ Development of a Miniature Quadruped Robotic Rat Capable of Multi-Modal Motions
 Multi-Target Trajectory Planning Strategy of a 6-DoF Free-Floating Space Robot
 ======
 <figure class="half">
-    <img src="horizon.gif" width="300">
-    <img src="vertical.gif" width="300">
+    <img src="/images/horizon.gif" width="300">
+    <img src="/images/vertical.gif" width="300">
 </figure>	
 * Time : Sept. 2019 - Mar. 2021
 * Developed an identification algorithm of the target position and estimated the relative pose between the space robot and target satellite using visual simultaneous localization and mapping (SLAM).
@@ -51,8 +51,8 @@ Multi-Target Trajectory Planning Strategy of a 6-DoF Free-Floating Space Robot
 End-To-End Trajectory Planning for a  6-DoF Free-floating Space Robot 
 ======
 <figure class="half">
-    <img src="end2end1.png" width="300">
-    <img src="end2end2.png" width="300">
+    <img src="/images/end2end1.png" width="300">
+    <img src="/images/end2end2.png" width="300">
 </figure>
 * Time : Sept. 2020 - Present
 * Designed an end-to-end planning system of perception, planning and control, which is divided into three layers of convolution network and three layers of perceptron network in policy layer, and velocity tracking PD controller in driver layer.
