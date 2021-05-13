@@ -12,7 +12,7 @@ Learning to Control for Capturing the Space Target
 ======
 <figure class="half">
     <img src="/images/capture1.gif" width="300">
-    <img src="/images/capture2.gif" width="300">
+    <img src="/images/capture1.gif" width="300">
 </figure>	
 * Time : Sept. 2021 - Present
 * Developed a hierachical decoupling optimization algorithm to realize 6D-pose multi-target trajectory planning for the free-floating space robot.
