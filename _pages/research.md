@@ -11,7 +11,7 @@ author_profile: true
 Learning to Control for Capturing the Space Target 
 ======
 <figure class="half">
-    <img src="/images/capture.gif" width="300">
+    <img src="/images/capture1.gif" width="300">
     <img src="/images/capture2.gif" width="300">
 </figure>	
 * Time : Sept. 2021 - Present
