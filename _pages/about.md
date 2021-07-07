@@ -16,10 +16,6 @@ Location: Main Building 428, Institute of Navigation and Control, Department of 
 
 Email: wangsj19@mails.tsinghua.edu.cn
 
-News
-======
-
-
 
 Research Interests
 ======
