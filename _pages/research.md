@@ -99,6 +99,10 @@ A Passively-Stable Four-legged Robot Capable of Leaping Obstacle
 * Developed a control system using WiFi communication, integrated PID control based on position tracking, and realized the modes including walking, turning and leaping obstacle.
 </pre>
 </details>
+<figure class="half">
+    <img src="/images/multi_feet.gif" width="300">
+    <img src="/images/multi_feet2.gif" width="300">
+</figure>	
 
 
 A Two-wheel Robot with Adjustable Wheelbase Used for Pipeline Detection
@@ -113,4 +117,7 @@ A Two-wheel Robot with Adjustable Wheelbase Used for Pipeline Detection
 * Developed a control system based on WiFi communication, integrated the function of remote image transmission, and testified some experiments in narrow pipelines.
 </pre>
 </details>
-
+<figure class="half">
+    <img src="/images/piperobot.gif" width="300">
+    <img src="/images/piperobot2.gif" width="300">
+</figure>	
