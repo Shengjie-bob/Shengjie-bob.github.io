@@ -81,13 +81,28 @@ An End-To-End Trajectory Planning for a  6-DoF Free-floating Space Robot
 <pre>
 * Designed an end-to-end planning system of perception, planning and control, which is divided into three layers of convolution network and three layers of perceptron network in policy layer, and velocity tracking PD controller in driver layer.
 * Implemented a deep reinforcement learning algorithm based on maximum entropy for the learning of parameters in the network, and had better performance comparing with other baseline algorithms.
-* Evaluated the kinematic and dynamic characteristics of the trained strategy,and carried out antidisturbance experiments to test its robustness.
+* Evaluated the kinematic and dynamic characteristics of the trained strategy and carried out antidisturbance experiments to test its robustness.
 </pre>
 </details>
 <figure class="half">
     <img src="/images/end2end1.png" width="200">
     <img src="/images/end2end2.png" width="200">
 </figure>
+
+An Effective Rain Prediction Method based on Seq2Seq Model with Attention Mechanism
+======
+* **Time : Mar. 2020 – Jun. 2020**
+* **Personal Business**
+* **Team members: Shengjie Wang, Yuguang Dong**
+<details>
+<summary>Abstract</summary>
+<pre>
+* Designed a rain prediction method based on Seq2Seq model with attention mechanism 
+* Designed other machine learning methods to predict the volume of rain, such as SVR, MLP, LSTM and XGBoost.
+* Evaluated our method on the testing dataset and visualized the attention map to illustrate the different importance of various factors.
+</pre>
+</details>
+* [code](https://github.com/Shengjie-bob/Holdem_DQN)
 
 An Intelligent Player in 1v1 Holden Game based on Deep Q-learning
 ======
@@ -102,7 +117,7 @@ An Intelligent Player in 1v1 Holden Game based on Deep Q-learning
 * Testified our method on the environment where the opponent knows the fully observation, and results show the winning percentage of our method is approximately the opponent. 
 </pre>
 </details>
-* [code](https://www.runoob.com)
+* [code](https://github.com/Shengjie-bob/Holdem_DQN)
 
 
 A Passively-Stable Four-legged Robot Capable of Leaping Obstacle 
