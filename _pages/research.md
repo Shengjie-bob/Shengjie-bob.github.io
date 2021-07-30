@@ -125,5 +125,5 @@ A Two-wheel Robot with Adjustable Wheelbase Used for Pipeline Detection
 </details>
 <figure class="half">
     <img src="/images/piperobot.gif" width="300">
-    <img src="/images/piperobot2.gif" width="300">
+    <img src="/images/piperobot2.png" width="300">
 </figure>	
