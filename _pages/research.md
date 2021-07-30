@@ -12,6 +12,7 @@ Learning to Control for Capturing the Space Target
 ======
 * **Time : Sept. 2021 - Present**
 * **Tsinghua Navigation and Control Lab (as researcher, advisor: prof. Tao Zhang)**
+* **Team members: Shengjie Wang, Yuxue Cao, Xiang Zheng**
 <details>
 <summary>Abstract</summary>
 <pre>
@@ -33,6 +34,7 @@ Development of a Miniature Quadruped Robotic Rat Capable of Multi-Modal Motions
 ======
 * **Time : Mar. 2018 - Present**
 * **Beijing Advanced Innovation Center for Intelligent Robots and Systems (BAICIRS) (as researcher, advisor: prof. Qing Shi)**
+* **Team members: Shengjie Wang, Junhui Gao, Yuxuan Wang, Fansheng Meng, Yi Hao**
 <details>
 <summary>Abstract</summary>
 <pre>
@@ -53,6 +55,7 @@ Multi-Target Trajectory Planning Strategy of a 6-DoF Free-Floating Space Robot
 ======
 * **Time : Sept. 2019 - Mar. 2021**
 * **Tsinghua Navigation and Control Lab (as researcher, advisor: prof. Tao Zhang)**
+* **Team members: Shengjie Wang, Yuxue Cao, Xiang Zheng**
 <details>
 <summary>Abstract</summary>
 <pre>
@@ -72,6 +75,7 @@ An End-To-End Trajectory Planning for a  6-DoF Free-floating Space Robot
 ======
 * **Time : Sept. 2020 - Present**
 * **Tsinghua Navigation and Control Lab (as researcher, advisor: prof. Tao Zhang)**
+* **Team members: Shengjie Wang, Yuxue Cao, Xiang Zheng**
 <details>
 <summary>Abstract</summary>
 <pre>
@@ -91,6 +95,7 @@ A Passively-Stable Four-legged Robot Capable of Leaping Obstacle
 * **Time : Oct. 2017 – Oct. 2018**
 * **Beijing Advanced Innovation Center for Intelligent Robots and Systems (BAICIRS) (as researcher, advisor: prof. Qing Shi)**
 * **Outstanding course design thesis in Beijing Institute of Technology**
+* * **Team members: Shengjie Wang, Haoxiang Qi, Cheng Chen**
 <details>
 <summary>Abstract</summary>
 <pre>
@@ -110,6 +115,7 @@ A Two-wheel Robot with Adjustable Wheelbase Used for Pipeline Detection
 * **Time : Sept. 2016 – Sept. 2017**
 * **Beijing Advanced Innovation Center for Intelligent Robots and Systems (BAICIRS) (as researcher, advisor: prof. Qing Shi)**
 * **Outstanding course design thesis in Beijing Institute of Technology**
+* * **Team members: Shengjie Wang, Zhihong Xia, Daotong Zhang**
 <details>
 <summary>Abstract</summary>
 <pre>
