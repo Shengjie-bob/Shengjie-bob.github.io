@@ -14,8 +14,8 @@ Learning to Control for Capturing the Space Target
     <img src="/images/capture3.gif" width="300">
     <img src="/images/capture4.gif" width="300">
 </figure>	
-* Time : Sept. 2021 - Present
-* Tsinghua Navigation and Control Lab (as researcher, advisor: prof. Tao Zhang) 
+* **Time : Sept. 2021 - Present**
+* **Tsinghua Navigation and Control Lab (as researcher, advisor: prof. Tao Zhang)** 
 <details>
 <summary>Abstract</summary>
 <pre>
@@ -36,6 +36,7 @@ Development of a Miniature Quadruped Robotic Rat Capable of Multi-Modal Motions
   	<img src="/images/rat5.gif" width="300">
 </figure>
 * Time : Mar. 2018 - Present
+* Tsinghua Navigation and Control Lab (as researcher, advisor: prof. Tao Zhang) 
 * Developed a miniature rat-inspired robot integrated with $12$ actuated DOFs and a size of $202\times55\times75 mm^3$ . The morphology and weight of the robotic rat is the same as a mature rat. The mechanical structure of the robotic rat makes full use of the connecting rod mechanism to transfer the movement. 
 * Designed an optimal Central Pattern Generator (CPG) network through Particle Swarm Optimization (PSO) algorithm which guaranteed adjustable frequency and amplitude to determine gait pattern and stride frequency. This method solves how to choose the optimal parameters of the CPG network based on Kimura model.
 * Designed a hierarchical multi-modal locomotion controller for a rat-inspired quadruped robot based on optimization with bionic constraints. Consisting of three layers, our method can execute multiple modes including crouch-standing action, walking forward, turning around, crawling and recovery from a fall.
