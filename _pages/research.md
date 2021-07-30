@@ -69,8 +69,6 @@ Multi-Target Trajectory Planning Strategy of a 6-DoF Free-Floating Space Robot
     <img src="/images/vertical.gif" width="200">
 </figure>	
 
-
-
 An End-To-End Trajectory Planning for a  6-DoF Free-floating Space Robot 
 ======
 * **Time : Sept. 2020 - Present**
@@ -89,6 +87,25 @@ An End-To-End Trajectory Planning for a  6-DoF Free-floating Space Robot
     <img src="/images/end2end2.png" width="200">
 </figure>
 
+
+Development of a Detection and Pose Estimation System for Free-floating Space Robots Based on Deep Learning
+======
+* **Time : Mar. 2019 – Present**
+* **Tsinghua Navigation and Control Lab (as researcher, advisor: prof. Tao Zhang)**
+* **Team members: Shaopeng Li, Shengjie Wang, Wenxuan Fan**
+<details>
+<summary>Abstract</summary>
+<pre>
+* Proposed a dataset construction system of spatial target perception tasks based on virtual environments, constructs dataset of spatial target feature detection and pose estimation suitable for this research task.
+* Designed a method based on the Mask R-CNN to the feature detection of spatial non-cooperative target, which can complete the features’ pixel-level segmentation at the same time of detection.
+* Designed a supervised learning method to estimate the pose of target satellite, and a semi-supervised learning method, which uses pose data for supervised learning and the reconstruction error between images to learn the relationship and internal relationship between images, so as to enhance the universality of the algorithm.
+</pre>
+</details>
+<figure class="half">
+    <img src="/images/pose.png" width="200">
+    <img src="/images/detect.png" width="200">
+</figure>
+
 Real-Time Mask Face Detection On the CPU Platform  
 ======
 * **Time : Mar. 2020 – Jun. 2020**
@@ -103,6 +120,9 @@ Real-Time Mask Face Detection On the CPU Platform
 </pre>
 </details>
 * [code](https://github.com/Shengjie-bob/Face_Mask_Detection)
+<figure class="half">
+    <img src="/images/mask_detect.png" width="200">
+</figure>
 
 
 An Effective Rain Prediction Method based on Seq2Seq Model with Attention Mechanism
@@ -119,6 +139,9 @@ An Effective Rain Prediction Method based on Seq2Seq Model with Attention Mechan
 </pre>
 </details>
 * [code](https://github.com/Shengjie-bob/Rainfall_Prediction)
+<figure class="half">
+    <img src="/images/rain_predict.png" width="200">
+</figure>
 
 An Intelligent Player in 1v1 Holden Game based on Deep Q-learning
 ======
