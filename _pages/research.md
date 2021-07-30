@@ -89,6 +89,21 @@ An End-To-End Trajectory Planning for a  6-DoF Free-floating Space Robot
     <img src="/images/end2end2.png" width="200">
 </figure>
 
+An Intelligent Player in 1v1 Holden Game based on Deep Q-learning
+======
+* **Time : Oct. 2019 – Mar. 2020**
+* **Personal Business**
+* **Team members: Shengjie Wang, Tianyu Wang**
+<details>
+<summary>Abstract</summary>
+<pre>
+* Developed a platform based on python for 1V1 holdem game.
+* Designed an agent based on Double Deep Q-learning to compete another agent based on Monte Carlo method. 
+* Testified our method on the environment where the opponent knows the fully observation, and results show the winning percentage of our method is approximately the opponent. 
+</pre>
+</details>
+* [code](https://www.runoob.com)
+
 
 A Passively-Stable Four-legged Robot Capable of Leaping Obstacle 
 ======
