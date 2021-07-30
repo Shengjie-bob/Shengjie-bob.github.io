@@ -95,7 +95,7 @@ A Passively-Stable Four-legged Robot Capable of Leaping Obstacle
 * **Time : Oct. 2017 – Oct. 2018**
 * **Beijing Advanced Innovation Center for Intelligent Robots and Systems (BAICIRS) (as researcher, advisor: prof. Qing Shi)**
 * **Outstanding course design thesis in Beijing Institute of Technology**
-* * **Team members: Shengjie Wang, Haoxiang Qi, Cheng Chen**
+* **Team members: Shengjie Wang, Haoxiang Qi, Cheng Chen**
 <details>
 <summary>Abstract</summary>
 <pre>
@@ -115,7 +115,7 @@ A Two-wheel Robot with Adjustable Wheelbase Used for Pipeline Detection
 * **Time : Sept. 2016 – Sept. 2017**
 * **Beijing Advanced Innovation Center for Intelligent Robots and Systems (BAICIRS) (as researcher, advisor: prof. Qing Shi)**
 * **Outstanding course design thesis in Beijing Institute of Technology**
-* * **Team members: Shengjie Wang, Zhihong Xia, Daotong Zhang**
+* **Team members: Shengjie Wang, Zhihong Xia, Daotong Zhang**
 <details>
 <summary>Abstract</summary>
 <pre>
