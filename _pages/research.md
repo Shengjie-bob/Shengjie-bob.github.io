@@ -17,12 +17,12 @@ Learning to Control for Capturing the Space Target
 * Time : Sept. 2021 - Present
 <details>
 <summary>展开查看</summary>
-<pre><code>
+<pre>
 * Developed a hierachical decoupling optimization algorithm to realize 6D-pose multi-target trajectory planning for the free-floating space robot.
 * In order to reduce the complexity of exploration, the whole system consists of two layers : the high-level policy completes the collision-free trajectory planning of the end-effector pose; the low-level policy divides the pose reaching problem into two sub-problems (position and orientation). 
 * Thanks to introducing the expert policy and hindlight experice replay, the policies reach the optimal quickly optimized by reinforcement learning.
 * Our approach generalizes to capture a target satellite under different poses, despite being trained without the gripper.
-</code></pre>
+</pre>
 </details>
 
 
