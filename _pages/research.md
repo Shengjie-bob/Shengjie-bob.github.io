@@ -10,12 +10,8 @@ author_profile: true
 
 Learning to Control for Capturing the Space Target 
 ======
-<figure class="half">
-    <img src="/images/capture3.gif" width="300">
-    <img src="/images/capture4.gif" width="300">
-</figure>	
 * **Time : Sept. 2021 - Present**
-* **Tsinghua Navigation and Control Lab (as researcher, advisor: prof. Tao Zhang)** 
+* **Tsinghua Navigation and Control Lab (as researcher, advisor: prof. Tao Zhang)**
 <details>
 <summary>Abstract</summary>
 <pre>
@@ -25,6 +21,10 @@ Learning to Control for Capturing the Space Target
 * Our approach generalizes to capture a target satellite under different poses, despite being trained without the gripper.
 </pre>
 </details>
+<figure class="half">
+    <img src="/images/capture3.gif" width="300">
+    <img src="/images/capture4.gif" width="300">
+</figure>	
 
 
 
