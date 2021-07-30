@@ -23,8 +23,8 @@ Learning to Control for Capturing the Space Target
 </pre>
 </details>
 <figure class="half">
-    <img src="/images/capture3.gif" width="300">
-    <img src="/images/capture4.gif" width="300">
+    <img src="/images/capture3.gif" width="200">
+    <img src="/images/capture4.gif" width="200">
 </figure>	
 
 
@@ -45,8 +45,8 @@ Development of a Miniature Quadruped Robotic Rat Capable of Multi-Modal Motions
 </pre>
 </details>
 <figure class="half">
-  	<img src="/images/rat3.gif" width="300">
-  	<img src="/images/rat5.gif" width="300">
+  	<img src="/images/rat3.gif" width="200">
+  	<img src="/images/rat5.gif" width="200">
 </figure>
 
 
@@ -65,8 +65,8 @@ Multi-Target Trajectory Planning Strategy of a 6-DoF Free-Floating Space Robot
 </pre>
 </details>
 <figure class="half">
-    <img src="/images/horizon.gif" width="300">
-    <img src="/images/vertical.gif" width="300">
+    <img src="/images/horizon.gif" width="200">
+    <img src="/images/vertical.gif" width="200">
 </figure>	
 
 
@@ -85,8 +85,8 @@ An End-To-End Trajectory Planning for a  6-DoF Free-floating Space Robot
 </pre>
 </details>
 <figure class="half">
-    <img src="/images/end2end1.png" width="300">
-    <img src="/images/end2end2.png" width="300">
+    <img src="/images/end2end1.png" width="200">
+    <img src="/images/end2end2.png" width="200">
 </figure>
 
 
@@ -105,8 +105,8 @@ A Passively-Stable Four-legged Robot Capable of Leaping Obstacle
 </pre>
 </details>
 <figure class="half">
-    <img src="/images/multi_feet.gif" width="300">
-    <img src="/images/multi_feet2.gif" width="300">
+    <img src="/images/multi_feet.gif" width="200">
+    <img src="/images/multi_feet2.gif" width="200">
 </figure>	
 
 
@@ -124,6 +124,6 @@ A Two-wheel Robot with Adjustable Wheelbase Used for Pipeline Detection
 </pre>
 </details>
 <figure class="half">
-    <img src="/images/piperobot.gif" width="300">
-    <img src="/images/piperobot2.png" width="300">
+    <img src="/images/piperobot.gif" width="200">
+    <img src="/images/piperobot2.png" width="200">
 </figure>	
