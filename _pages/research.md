@@ -89,10 +89,26 @@ An End-To-End Trajectory Planning for a  6-DoF Free-floating Space Robot
     <img src="/images/end2end2.png" width="200">
 </figure>
 
+Real-Time Mask Face Detection On the CPU Platform  
+======
+* **Time : Mar. 2020 – Jun. 2020**
+* **Course Project (Teacher: Prof. Changshui Zhang)**
+* **Team members: Shengjie Wang**
+<details>
+<summary>Abstract</summary>
+<pre>
+* Designed two fast mask face detection methods based on the MobileNetV2-SSD model and the YOLOv3-tiny model.
+* Evaluated two methods on accuracy and detecting speed, and studied the effects of network super parameters, data enhancement, optimizer, number of anchor boxes, NMS type and picture size on the performance of the model.
+* Considering the robustness of algorithm, we introduced some noises on images to enhance data and achieve the accuracy-robustness balance. 
+</pre>
+</details>
+* [code](https://github.com/Shengjie-bob/Face_Mask_Detection)
+
+
 An Effective Rain Prediction Method based on Seq2Seq Model with Attention Mechanism
 ======
 * **Time : Mar. 2020 – Jun. 2020**
-* **Personal Business**
+* **Course Project (Teacher: Prof. Changshui Zhang)**
 * **Team members: Shengjie Wang, Yuguang Dong**
 <details>
 <summary>Abstract</summary>
@@ -102,7 +118,7 @@ An Effective Rain Prediction Method based on Seq2Seq Model with Attention Mechan
 * Evaluated our method on the testing dataset and visualized the attention map to illustrate the different importance of various factors.
 </pre>
 </details>
-* [code](https://github.com/Shengjie-bob/Holdem_DQN)
+* [code](https://github.com/Shengjie-bob/Rainfall_Prediction)
 
 An Intelligent Player in 1v1 Holden Game based on Deep Q-learning
 ======
