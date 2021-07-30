@@ -120,7 +120,7 @@ Real-Time Mask Face Detection On the CPU Platform
 </pre>
 </details>
 * [code](https://github.com/Shengjie-bob/Face_Mask_Detection)
-<figure class="half">
+<figure class="center">
     <img src="/images/mask_detect.png" width="200">
 </figure>
 
@@ -139,7 +139,7 @@ An Effective Rain Prediction Method based on Seq2Seq Model with Attention Mechan
 </pre>
 </details>
 * [code](https://github.com/Shengjie-bob/Rainfall_Prediction)
-<figure class="half">
+<figure class="center">
     <img src="/images/rain_predict.png" width="200">
 </figure>
 
