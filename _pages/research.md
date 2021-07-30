@@ -13,7 +13,7 @@ Learning to Control for Capturing the Space Target
 * **Time : Sept. 2021 - Present**
 * **Tsinghua Navigation and Control Lab (as researcher, advisor: prof. Tao Zhang)**
 <details>
-<summary>Abstract</summary>
+<summary>**Abstract**</summary>
 <pre>
 * Developed a hierachical decoupling optimization algorithm to realize 6D-pose multi-target trajectory planning for the free-floating space robot.
 * In order to reduce the complexity of exploration, the whole system consists of two layers : the high-level policy completes the collision-free trajectory planning of the end-effector pose; the low-level policy divides the pose reaching problem into two sub-problems (position and orientation). 
