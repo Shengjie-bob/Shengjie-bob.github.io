@@ -1,13 +1,13 @@
 ---
 title: "Collision-Free Trajectory Planning for a 6-DoF Free Floating Space Robot via Hierachical Decoupling Optimization"
-excerpt: "**Recent research in 29th, Apri, 2021.**"
+excerpt: "**Recent research in 27th, August, 2021.**"
 collection: portfolio
 
 ---
 
 {% include base_path %}
 
-<iframe height=720 width=1280 src='/images/capture_cut.mp4' allowfullscreen='true'> </iframe>
+<iframe height=720 width=1280 src='/images/HDO_cut.mp4' allowfullscreen='true'> </iframe>
 
 **Tips**：If you see a small figure in the center of the above screen, click it and then you will see the video.
 
