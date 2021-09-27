@@ -22,7 +22,7 @@ News
 * Sept. 2021, I confirmed to be the Session Chair, Mobile and Bimanual manipulation, at IROS2021.
 * Sept. 2021, I will make an spotlight presentation at IROS2021.
 * Jul. 2021, I made an oral presentation at CCC2021.
-* Jul. 2019, I made an oral presentation at AIM2019 and won the best student paper award.
+* Jul. 2019, I made an oral presentation at AIM2019 and our paper won the best student paper award.
 * Jun. 2019, earned my B.S. degree as outstanding undergraduate
 
 Research Interests
