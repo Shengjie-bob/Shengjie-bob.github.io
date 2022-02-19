@@ -19,6 +19,7 @@ Email: wangsj19@mails.tsinghua.edu.cn
 
 News
 ======
+* Feb. 2022, One paper is accepted by **RA-L with ICRA2022 option**.
 * Sept. 2021, I confirmed to be the Session Chair, Mobile and Bimanual manipulation, at IROS2021.
 * Sept. 2021, I will make an spotlight presentation at IROS2021.
 * Jul. 2021, I made an oral presentation at CCC2021.
