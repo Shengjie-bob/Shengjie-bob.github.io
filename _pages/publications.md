@@ -10,7 +10,7 @@ author_profile: true
 
 * **S. Wang** et al., "Design and Control of a Miniature Quadruped Rat-inspired Robot", 2019 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (**AIM**), Hong Kong, China, 2019, pp. 346- 351. (**the Best Student Paper Award(Top 0.5%)**)
 * Q. Shi, J. Gao, **S. Wang** et al., " Development of a Small-Sized Quadruped Robotic Rat Capable of Multi- Modal Motions", IEEE Transactions on Robotics (**T-RO**), 2021, *Under review*.
-* **S. Wang** et al., "Collision-Free Trajectory Planning for a 6-DoF Free Floating Space Robot via Hierarchical Decoupling Optimization", 2021 IEEE Robotics and Automation Letters (**RA-L** with **ICRA 2022** presentation), 2021, *Accepted*.
+* **S. Wang** et al., "Collision-Free Trajectory Planning for a 6-DoF Free Floating Space Robot via Hierarchical Decoupling Optimization", 2021 IEEE Robotics and Automation Letters (**RA-L** with **ICRA 2022** presentation), 2021, **Accepted**.
 * **S. Wang** et al., "A Multi-Target Trajectory Planning Strategy of a 6-DoF Free-Floating Space Robot based on Reinforcement Learning", 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), Prague, Czech Republic, 2021, **Spotlight**.
 * **S. Wang** et al., "An End-to-End Trajectory Planning Strategy for Free-floating Space Robots", The 40th IEEE Chinese Control Conference (**CCC**), Shanghai, China, 2021, **Oral**.
 * Y. Cao, **S. Wang** et al., "Planning and Control of Space Robot in Capture Operation Based on Reinforcement Learning", The 40th IEEE Chinese Control Conference (**CCC**), Shanghai, China, 2021, **Oral**. (in Chinese)
